@@ -2,6 +2,6 @@ In the past month, I have learnt basic Python programming concepts in school suc
 
 I/O
 Type conversion
-String concatenation
+String concatenations
   
 
