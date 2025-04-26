@@ -1,7 +1,10 @@
 In the past month, I have learnt basic Python programming concepts in school such as:
 
-I/O
-Type conversion
-String concatenations
+    Input and output
+    String concatenation
+    Type conversion
+    Using the 'random' module
+
+  
   
 
