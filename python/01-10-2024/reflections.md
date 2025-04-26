@@ -5,6 +5,6 @@ In the past month, I have learnt basic Python programming concepts in school suc
     Type conversion
     Using the 'random' module
 
-I have put these concepts into practice in the program called 'Password Generator.py'.
+I have put these concepts into practice in the program called 'password_generator.py'.
   
 
