@@ -1,3 +1,12 @@
+# Password generator
+
+# This program takes 4 user inputs:
+#  1. pet name
+#  2. favourite holiday destination
+#  3. house number
+#  4. birth year
+
+# These variables are used to make a password for the user.
 import random
 
 print("Password Generator")
