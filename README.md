@@ -1,2 +1,2 @@
 # projects
-This repository has all my projects and documentation.
+This repository will track my coding journey over time.
