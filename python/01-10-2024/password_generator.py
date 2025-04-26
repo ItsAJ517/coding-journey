@@ -1,6 +1,7 @@
 import random
 
 print("Password Generator")
+
 # User inputs
 pet_name = input("\nEnter your pet's name: ").upper()
 holiday = input("Enter your favourite holiday destination: ").upper()
