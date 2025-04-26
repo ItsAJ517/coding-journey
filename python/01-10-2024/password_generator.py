@@ -14,4 +14,5 @@ suffix = int(house_num) + int(birth_year)
 password = str(prefix) + holiday.upper() + pet_name.upper() + str(suffix)
 
 print("Here is your password: ")
-input(password)
+print(password)
+input("Press <Enter> to close the program!")
