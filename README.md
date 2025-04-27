@@ -1,4 +1,6 @@
 # coding-journey
-This repository will track my coding journey over time.
+Hi! This repository is a roadmap of programmes I've created while learning programming.
 
-If you would like to run the programmes, you can do so by opening the 'projects' codespace.
+Each folder contains different stages of my journey - from basic algorithms to more complex projects.
+
+In order to run each program, please check the README.md files in each language folder.
