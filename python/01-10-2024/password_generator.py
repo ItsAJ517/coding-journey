@@ -7,6 +7,8 @@
 #  4. birth year
 
 # These variables are used to make a password for the user.
+
+# How to run: this file does not need any additional libraries and can be run directly in the command line.
 import random
 
 print("Password Generator")
