@@ -20,7 +20,7 @@ birth_year = input("Enter your birth year: ")
 # Variables
 prefix = random.randint(0, int(house_num) + int(birth_year))
 suffix = int(house_num) + int(birth_year)
-password = str(prefix) + holiday.upper() + pet_name.upper() + str(suffix)
+password = str(prefix) + holiday + pet_name + str(suffix)
 
 print("Here is your password: ")
 print(password)
