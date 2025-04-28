@@ -1,4 +1,9 @@
-# How to run: this file can be run directly in the command line without
+# Presents
+
+# This program gives a user £200 to spend on presents.
+# They will keep entering the price of each present until they reach exactly £200.
+
+# How to run: this file does not need any additional libraries and can be run directly in the command line
 print("Presents")
 
 print("\nYou have £200 to spend on presents.")
