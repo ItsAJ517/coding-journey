@@ -17,9 +17,6 @@ while total <= 200:
     
     if total + price <= 200:
         total += price
-        
-        if total == 200:
-            break
         print(f"Total so far: £{total}")
         
     elif total + price > 200:
