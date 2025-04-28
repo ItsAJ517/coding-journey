@@ -1,3 +1,4 @@
+# How to run: this file can be run directly in the command line without
 print("Presents")
 
 print("\nYou have £200 to spend on presents.")
