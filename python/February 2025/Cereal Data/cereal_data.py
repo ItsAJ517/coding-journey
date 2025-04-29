@@ -36,74 +36,64 @@ input()
 less_than_100kcal = 0
 over_100kcal = 0
 
+# Find data
 for i in range(1, len(data)):
     if float(data[i][3]) < 100:
         less_than_100kcal += 1
     else:
         over_100kcal += 1
 
-
+# Print details
 print(f"{less_than_100kcal} cereals have less than 100 calories.")
 print(f"{over_100kcal} cereals have over 100 calories.")
 input()
 
-#Sodium
+# [3] Amount of sodium in the cereals
 less_than_200_sodium = 0
 over_200_sodium = 0
 
+# Find data
 for i in range(1, len(data)):     
     if float(data[i][6]) < 200:
         less_than_200_sodium += 1
     else:
         over_200_sodium += 1
 
-
+# Print details
 print(f"{less_than_200_sodium} cereals have less than 200 sodium.")
 print(f"{over_200_sodium} cereals have over 200 sodium.")
 input()
 
-#Carbohydrates
+# [4] Amount of carbohydrates in the cereals
 less_than_15_carbs = 0
 over_15_carbs = 0
 
+# Find data
 for i in range(1, len(data)):
     if float(data[i][8]) < 15:
         less_than_15_carbs += 1
     else:
         over_15_carbs += 1
 
-
+# Print details
 print(f"{less_than_15_carbs} cereals have less than 15 carbs.")
 print(f"{over_15_carbs} cereals have over 15 carbs.")
 input()
 
-#Ratings
+# [5] Ratings
 rating_under_50 = 0
 rating_above_50 = 0
 
-cereal_with_highest_rating = [0]
-cereal_with_lowest_rating = [999]
-
+# Find data
 for i in range(len(data)):
     if float(data[i][-1]) <= 50:
         rating_under_50 += 1
     else:
         rating_above_50 += 1
-
-    if float(data[i][-1]) > float(cereal_with_highest_rating[-1]):
-        cereal_with_highest_rating = data[i]
-    if float(data[i][-1]) < float(cereal_with_lowest_rating[-1]):
-        cereal_with_lowest_rating = data[i]
         
 
 print(f"{rating_under_50} cereals have a rating under 50.")
 print(f"{rating_above_50} cereals have a rating above 50.")
 print()
-
-print(f"The cereal with the highest rating was {cereal_with_highest_rating[0]}, made by {cereal_with_highest_rating[1]}, " \
-      f"with a rating of {cereal_with_highest_rating[-1]}.")
-
-print(f"The cereal with the lowest rating was {cereal_with_lowest_rating[0]}, made by {cereal_with_lowest_rating[1]}, " \
-      f"with a rating of {cereal_with_lowest_rating[-1]}.")
 
 input("Press enter to close the program!")
