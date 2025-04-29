@@ -85,7 +85,7 @@ rating_under_50 = 0
 rating_above_50 = 0
 
 # Find data
-for i in range(len(data)):
+for i in range(1, len(data)):
     if float(data[i][-1]) <= 50:
         rating_under_50 += 1
     else:
