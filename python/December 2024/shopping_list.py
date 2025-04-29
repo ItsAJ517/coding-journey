@@ -4,7 +4,7 @@
 # They can also view the contents of their shopping list.
 # This program handles any invalid user inputs as well.
 
-# How to run: this program does not require any additional libraries and can be run directly in the command line.
+# How to run: this file does not require any additional libraries and can be run directly in the command line.
 
 shopping_items = []
 
