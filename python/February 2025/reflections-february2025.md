@@ -6,6 +6,6 @@ In the past month, I have expanded my knowledge of programming concepts in Pytho
 
 This also introduced the concept of 2D lists. I particularly enjoyed learning these skills and have used them in the program 'cereal_data.py', which can be found in the folder named 'Cereal Data'.
 
-Strengths: I used iteration quite well in order to find the data required from the list. I have also made my comments brief and professional.
+Strengths: I made use of 'for' loops quite well in order to find the data required. This process became second nature after a while as it is fairly repetitive. I have also made my comments brief and professional.
 
 Weaknesses: Double indexing with 2D lists was tricky at first, but it became relatively easy after some practice.
