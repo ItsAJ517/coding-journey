@@ -1,4 +1,4 @@
-In the past month, I have learnt basic Python programming concepts in school such as:
+In the past month, I have learnt some of the core Python programming concepts such as:
 
     Input and output
     String concatenation
