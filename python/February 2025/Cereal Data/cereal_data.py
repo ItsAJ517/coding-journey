@@ -3,7 +3,7 @@
 # This program extracts data from the CSV file named 'cereals.csv' as a list
 # It then presents different statistics in the data
 
-# How to run: for this file, you will also need to download 'cereals.csv'. Make sure that this file and the CSV file are both in the same directory.
+# How to run: for this file, you will also need to download 'cereals.csv'. Make sure that this file and the CSV file are both located in the same directory.
 # After that, you can run the program as normal in the command line.
 
 import csv
@@ -16,7 +16,7 @@ with open('cereals.csv', 'r') as read_obj:
 print("Cereal Data")
 print()
 
-# Display number of Kelloggs and other brand cereals
+# [1] Display number of Kelloggs and other brand cereals
 kelloggs_cereals = 0
 other_cereals = 0
 
@@ -32,7 +32,7 @@ print(f"There are {kelloggs_cereals} Kelloggs cereals in the data.")
 print(f"There are {other_cereals} other cereals.")
 input()
 
-#Calories
+# [2] Amount of calories in the cereals
 less_than_100kcal = 0
 over_100kcal = 0
 
