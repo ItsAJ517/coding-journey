@@ -3,7 +3,7 @@
 # This program extracts data from the CSV file named 'cereals.csv' as a list
 # It then presents different statistics in the data
 
-# How to run: for this file, you will also need to download 'cereals.csv'. Make sure that this file and the CSV file are both located in the same directory.
+# How to run: for this file, you will also need to download 'cereals.csv'. Make sure that both files are located in the same directory.
 # After that, you can run the program as normal in the command line.
 
 import csv
