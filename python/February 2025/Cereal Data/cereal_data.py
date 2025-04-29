@@ -16,16 +16,18 @@ with open('cereals.csv', 'r') as read_obj:
 print("Cereal Data")
 print()
 
-#Amount of Kelloggs and other brand cereals
+# Display number of Kelloggs and other brand cereals
 kelloggs_cereals = 0
 other_cereals = 0
 
+# Find data
 for i in range(1, len(data)):
     if data[i][1].lower() == "kelloggs":
         kelloggs_cereals += 1
     else:
         other_cereals += 1
 
+# Print details
 print(f"There are {kelloggs_cereals} Kelloggs cereals in the data.")
 print(f"There are {other_cereals} other cereals.")
 input()
