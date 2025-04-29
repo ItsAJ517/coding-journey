@@ -1,4 +1,11 @@
-#Rock Paper Scissors
+# Rock Paper Scissors
+
+# The user has 2 choices:
+# 1. User vs Computer
+# 2. Computer A vs Computer B
+# They can play/simulate a best of 1, 3, or 5
+
+# How to run: this file does not require any additional libraries and can be run directly in the command line.
 import random
 
 # Choices
