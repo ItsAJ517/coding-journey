@@ -1,6 +1,6 @@
 This folder contains my milestones in Python development.
 
-Most files can be run by downloading the file and running it in the command line:  
+Most files can be run by downloading the file and running it in the command line (make sure Python is installed):  
 
     python filename.py
 
