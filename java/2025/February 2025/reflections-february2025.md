@@ -6,5 +6,5 @@ In the past month, I have revisited some core programming concepts, but this tim
     Selection statements
     Iteration
 
-  
+  I have applied all of these concepts in the program 'GalToLitTable.java'.
     
