@@ -16,3 +16,5 @@ Other insights: I have noticed that Java is a much more strict and robust langua
 
     Specifying types when initializing variables
     Increased number of variable types
+
+I have also noticed that strings can be concatenated much easier since the variable types can all be different while concatenating. This was one of my main weaknesses when I started learning Python.
