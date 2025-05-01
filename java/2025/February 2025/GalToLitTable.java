@@ -1,6 +1,7 @@
 /*
  * Gallons to litres converter
  * This program converts gallons to litres, from 1 - 100.
+ * How to run: this file can be run directly in the command line.
  */
 
  class GalToLitTable {
