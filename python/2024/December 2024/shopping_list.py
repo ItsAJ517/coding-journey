@@ -54,3 +54,5 @@ Option: """)
 
 
 input("Press <Enter> to close the program")
+
+# Improvements: when viewing the shopping list, I could have formatted it in a nicer way.
