@@ -12,7 +12,7 @@
 
         counter = 0;
 
-      // Begin conversions
+        // Begin conversions
         for(gallons = 1; gallons <= 100; gallons++) {
             litres = gallons * 3.7854;
             System.out.println(gallons + " gallons is " + litres + " litres");
