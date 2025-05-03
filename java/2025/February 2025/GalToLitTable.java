@@ -8,9 +8,7 @@
     public static void main(String[] args) {
         // Initialize variables
         double gallons, litres;
-        int counter;
-
-        counter = 0;
+        int counter = 0;
 
         // Begin conversions
         for(gallons = 1; gallons <= 100; gallons++) {
