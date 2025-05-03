@@ -6,7 +6,7 @@ In the past month, I have revisited some core programming concepts, but this tim
     Selection statements
     Iteration
 
-I have applied all of these concepts in the program 'GalToLitTable.java'.
+I have applied all of these concepts in the program 'TimesTable.java'.
 
 Strengths: I gained a solid understanding of the various data types and their purposes. I also applied the mathematical operators effectively, as they are the same to those in Python.
 
