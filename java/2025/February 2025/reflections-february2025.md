@@ -10,7 +10,7 @@ I have applied all of these concepts in the program 'GalToLitTable.java'.
 
 Strengths: I gained a solid understanding of the various data types and their purposes. I also applied the mathematical operators effectively, as they are the same to those in Python.
 
-Weaknesses: I had trouble understanding 'for' loops as they required much more syntax than in Python. I would also often forget to end my lines in semicolons, which would lead to many errors.
+Weaknesses: I had trouble understanding 'for' loops as they required more syntax than in Python. I would also often forget to end my lines in semicolons, which would lead to many errors.
 
 Other insights: I have noticed that Java is a much more strict and robust language than Python. This is due to the increased syntax such as:
 
