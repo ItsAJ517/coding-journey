@@ -12,4 +12,4 @@ and executing (make sure Java is installed):
 
     java Filename
 
-However, some files may have additional requirements - please check the comments at the top of each file.
+However, some files may have additional requirements - please check the comments at the top of each program.
