@@ -1,3 +1,8 @@
+/* Java Help System
+This file displays the general form of several selection and iteration statements.
+This file could perhaps serve as a reminder of how to use the statements in the future.
+How to run: this file does not have any additional requirements and can be run directly in the command line.*/
+
 class HelpSystem {
     public static void main(String[] args) 
         throws java.io.IOException {
