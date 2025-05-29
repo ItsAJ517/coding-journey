@@ -2,4 +2,8 @@ In the past month, I developed my understanding of the following in Java:
 
     Selection statements
     Iteration
-    I/O
+    Basic I/O
+
+I have used these concepts in the file called 'HelpSystem.java'.
+
+Strengths: 
