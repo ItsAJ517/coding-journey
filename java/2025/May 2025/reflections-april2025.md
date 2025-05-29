@@ -1,4 +1,4 @@
-In the past month, I developed my understanding of the following in Java:
+In the past few months, I developed my understanding of the following in Java:
 
     Selection statements
     Iteration
