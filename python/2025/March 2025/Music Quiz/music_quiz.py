@@ -1,5 +1,7 @@
 # Music Game
 
+# How to run: for this program, download all the files in this folder before running. Make sure all your downloaded files are in the same folder.
+
 # Import modules
 import csv, random, time
 
