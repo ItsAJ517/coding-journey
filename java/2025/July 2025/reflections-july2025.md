@@ -4,4 +4,4 @@ In the past month, I have learnt the following concepts in Java:
     Objects
     Methods
 
-I have applied these concepts in the program 
+I have applied these concepts in the program 'BookRecommendations.java'.
