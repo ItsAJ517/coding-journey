@@ -4,7 +4,7 @@ In the past few months, I developed my understanding of the following in Java:
     Iteration
     Basic I/O
 
-I have used these concepts in the file called 'HelpSystem.java'.
+I have used these concepts in the file called 'BookRecommendations.java'.
 
 Strengths: I applied basic I/O and iteration in multiple smaller programs effectively.
 
