@@ -1,4 +1,4 @@
-In the past month, I have learnt the following concepts in Java:
+In the past month, I have learnt how to use the following in Java:
 
     Classes
     Methods
