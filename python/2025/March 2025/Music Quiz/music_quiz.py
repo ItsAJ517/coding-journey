@@ -2,7 +2,7 @@
 
 # This is a guessing game where the user tries to guess a song based on the artist name and the first letter of each word in the song title.
 # Alongside the game functionality, the user can also change their name or password, delete their account and view the top 5 scores.
-# How to run: for this program, download all the files in this folder before running. Make sure all your downloaded files are in the same folder.
+# How to run: for this program, please download all the files in this folder before running. Make sure all your downloaded files are in the same folder.
 
 # Import modules
 import csv, random, time
