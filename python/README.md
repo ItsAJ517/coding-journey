@@ -4,4 +4,4 @@ Most files can be executed by downloading the file and running it in the command
 
     python filename.py
 
-However, some files may require additional libraries to be downloaded - please check the comments at the top of each file.
+However, some files may require additional libraries or files to be downloaded - please check the comments at the top of each file.
