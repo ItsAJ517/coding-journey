@@ -1,6 +1,7 @@
 /* Book recommendations
-This program provides the user with recommendations for different genres of books.
-/*
+ * This program provides the user with recommendations for different genres of books.
+ * How to run: this program does not have any additional requirements and can be run directly in the command line.
+*/
 
 class BookRecommendations {
     public static void main(String[] args)
@@ -78,6 +79,7 @@ class BookRecommendations {
 
     }
 }
+
 
 
 
