@@ -1,7 +1,6 @@
-// Book recommendations
-
-// This program provides the user with recommendations for different genres of books.
-//
+/* Book recommendations
+This program provides the user with recommendations for different genres of books.
+/*
 
 class BookRecommendations {
     public static void main(String[] args)
@@ -79,5 +78,6 @@ class BookRecommendations {
 
     }
 }
+
 
 
