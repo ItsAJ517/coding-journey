@@ -34,7 +34,7 @@ class BookRecommendations {
                 // 1. adventure
                 case '1':
                     System.out.println("Adventure recommendations:");
-                    System.out.println("  1. 'The Hobbit' by J.R.R. Tolkien");
+                    System.out.println("  1. 'The Lord Of The Rings' (trilogy) by J.R.R. Tolkien");
                     System.out.println("  2. 'Hatchet' by Gary Paulsen");
                     System.out.println("  3. 'The Martian' by Andy Weir");
                     break;
@@ -76,3 +76,4 @@ class BookRecommendations {
 
     }
 }
+
