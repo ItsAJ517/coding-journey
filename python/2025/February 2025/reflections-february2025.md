@@ -8,4 +8,4 @@ This also introduced the concept of 2D lists. I particularly enjoyed learning th
 
 Strengths: I made use of 'for' loops quite well in order to find the data required. This process became second nature after a while as it is fairly repetitive. I have also made my comments brief and professional.
 
-Weaknesses: Double indexing with 2D lists was tricky at first, but it became relatively easy after some practice.
+Weaknesses: Double indexing with 2D lists was tricky at first, but it became fairly easy after some practice.
