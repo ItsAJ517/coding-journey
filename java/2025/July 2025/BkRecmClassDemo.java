@@ -1,4 +1,9 @@
-// book recommendations
+/* Book recommandations class
+ * This program is an improvement on the 'BookRecommendations.java' program found in the folder labelled 'May 2025'.
+ * I have used a BookClass object to encapsulate all the functionality of the previous program into different methods.
+ * This approach is aesthetically pleasing and allows a programmer to upgrade the object's functionality without causing side effects in the main program.
+ * How to run: this program does not have any additional requirements and can be run directly in the command line.
+*/
 
 class BookClass {
     void showMenu() {
@@ -93,4 +98,5 @@ class BkRecmClassDemo {
 
     }
 }
+
 
