@@ -1,7 +1,7 @@
 # Personal Finance Tracker
 
 # This program allows a user to keep track of their finances.
-# It includes several functions such as adding transactions, viewing remaining balance, and editing budgets.
+# It includes several options such as adding transactions, viewing remaining balance, and editing budgets.
 
 # How to run: for this file, please make sure to download this program as well as the JSON file, 'user_data.json'.
 # When running the program, make sure both files are in the exact same directory.
