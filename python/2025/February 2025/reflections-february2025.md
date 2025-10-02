@@ -1,4 +1,4 @@
-In the past month, I have expanded my knowledge of programming concepts in Python by learning the following:
+In the past month, I have expanded my knowledge of file handling in Python by learning the following:
 
     Extracting data from CSV files
     Writing data to CSV files
