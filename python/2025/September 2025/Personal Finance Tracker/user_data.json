@@ -1,0 +1,54 @@
+{
+  "TEST": {
+    "password": "test_password",
+    "transactions": [
+      {
+        "transact_name": "groceries",
+        "date": "2025-07-12",
+        "amount": 100.0,
+        "category": "food",
+        "type": "expense",
+        "frequency": "weekly"
+      },
+      {
+        "transact_name": "paycheck",
+        "date": "2025-02-10",
+        "amount": 30000.0,
+        "category": "salary",
+        "type": "income",
+        "frequency": "yearly"
+      },
+      {
+        "transact_name": "guitar",
+        "date": "2025-08-07",
+        "amount": 249.0,
+        "category": "fun",
+        "type": "expense",
+        "frequency": "one-time"
+      },
+      {
+        "transact_name": "electricity",
+        "date": "2025-05-15",
+        "amount": 75.0,
+        "category": "bill",
+        "type": "expense",
+        "frequency": "monthly"
+      },
+      {
+        "transact_name": "petrol",
+        "date": "2025-08-14",
+        "amount": 40.0,
+        "category": "travel",
+        "type": "expense",
+        "frequency": "one-time"
+      }
+    ],
+    "category_budgets": {
+      "bill": 100.0,
+      "food": 450.0,
+      "fun": 200.0,
+      "travel": 300.0,
+      "other": false
+    }
+  }
+}
