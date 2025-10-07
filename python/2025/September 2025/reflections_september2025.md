@@ -9,4 +9,4 @@ I used JSON because I realized that using CSV files would not be the best approa
 
 Strengths: I quickly learnt the JSON and datetime module and used them effectively. I also implemented error handling with ease.
 
-Weaknesses: my biggest weakness was putting all my code into different functions after hard coding it into each of the options. This was a very tedious task which included many rounds of debugging. However, in the end, this was definitely a great choice. As I started to add more options to the program, the functions proved to be much more helpful than I would've thought.
+Weaknesses: my biggest weakness was putting all my code into different functions after hard coding it into each of the options. This was a very tedious task which included many rounds of debugging. However, in the end, this was definitely a great choice. As I started to add more options to the program, the functions proved to be much more helpful than I would've initially thought.
